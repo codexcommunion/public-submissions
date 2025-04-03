@@ -1,2 +1,2 @@
 # public-submissions
-To keep track of publicly submitted ideeas/requests
+To keep track of publicly submitted ideas/requests
